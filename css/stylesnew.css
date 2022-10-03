@@ -528,17 +528,17 @@ li > a:hover {
     /* grid-template-rows: auto auto auto auto auto auto; */
   }
   
-  /* .container{
+  .container{
     display: flex;
     flex-direction: column;
     /* flex-wrap: wrap; 
     align-items:center;
-    justify-content: center;
+    justify-content: center;*/
     
    }
 
 
-    .card{
+    /*.card{
       display:flex;
       flex-direction: column;
       flex-wrap: wrap;
